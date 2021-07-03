@@ -1,4 +1,4 @@
-# AmaysimTest
+# Klein Estrada - Technical Test
 
 Steps on how to launch the application:
 1. Clone or download the zip file
