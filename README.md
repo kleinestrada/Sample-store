@@ -1,4 +1,4 @@
-# Klein Estrada - Technical Test
+# Sample store
 
 Steps on how to launch the application:
 1. Clone or download the zip file
